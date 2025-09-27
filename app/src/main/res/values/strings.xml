@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SubscriptionTracker</string>
+    <string name="add_subscription_title">Add Subscription</string>
+    <string name="save_action">Save</string>
+    <string name="subscription_name_req">Subscription Name *</string>
+    <string name="subscription_cost_req">Cost *</string>
+    <string name="subscription_billing_cycle_req">Billing Cycle *</string>
+    <string name="no_subscriptions_description">No subscriptions yet.\nTap the + button to add one.</string>
+    <string name="dashboard_summary_title">Cost Summary</string>
+    <string name="total_monthly_cost">Monthly Total</string>
+    <string name="total_yearly_cost">Yearly Total</string>
+    <string name="category_breakdown_title">Cost by Category</string>
+    <string name="no_category_data">No category data available.</string>
+    <string name="first_payment_date">First Payment Date</string>
+    <string name="category">Category</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="notes">Notes</string>
+</resources>
